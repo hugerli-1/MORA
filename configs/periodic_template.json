@@ -1,0 +1,10 @@
+{
+  "horizon": 96,
+  "history_length": 96,
+  "base_period": 144,
+  "coarse_estimator": "channel_wise",
+  "use_periodic_template": true,
+  "feature_set": "compact",
+  "template_period_count": 8,
+  "template_half_life": 16.0
+}

@@ -1,0 +1,9 @@
+{
+  "horizon": 12,
+  "history_length": 96,
+  "base_period": 288,
+  "coarse_estimator": "factorized",
+  "factor_rank": 32,
+  "factor_period": 2016,
+  "estimator_stride": 1
+}
